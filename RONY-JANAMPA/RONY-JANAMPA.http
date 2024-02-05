@@ -1,0 +1,6 @@
+@RONY_JANAMPA_HostAddress = http://localhost:5293
+
+GET {{RONY_JANAMPA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
